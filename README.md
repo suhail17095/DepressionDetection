@@ -1,2 +1,2 @@
 # DepressionDetection
-# Steps to run the application
+Steps to run the application
